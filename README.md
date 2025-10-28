@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/Aaditya48460615" target="blank"></a> </p>
 
-- 💬 Ask me about **HTML , CSS , JS , MERN , Tailwind , Redux , DSA , Leetcode , Codestudio**
-
 - 📫 How to reach me **aaditya.srivastava.connect@gmail.com**
 
 
